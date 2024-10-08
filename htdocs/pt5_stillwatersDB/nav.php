@@ -8,7 +8,6 @@
         left: 0;
         width: 100%;
         background-color: #1F2739;
-        /* Dark background to match the table */
         padding: 10px 0;
         z-index: 10;
     }
