@@ -32,7 +32,6 @@
     }
 </style>
 <nav>
-    <a href="Index.html"><B>Home</b></a>
     <a href="c_list.php"><b>Clients</b></a>
     <a href="items.php"><B>Items</b></a>
     <a href="purchases.php"><B>Store Purchases</b></a>
