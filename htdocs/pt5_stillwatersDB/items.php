@@ -56,7 +56,7 @@ if (!$query) {
 <body>
     <br>
     <br>
-    <h1><span class="blue"></span>Still Waters<span class="blue"></span> <span class="yellow">Antique</span></h1>
+    <h1><span class="blue"></span>Still Waters<span class="blue"></span> <span class="yellow">Antique</span> Database</h1>
     <table class="container">
         <tbody>
             <tr>
